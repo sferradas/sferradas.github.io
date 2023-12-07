@@ -1,7 +1,8 @@
 
 # Samantha Ferradas' Portfolio
 
-I am a computer science major at CSUF and I plan on graduating in 2028. My github profile can be found at the link: github.com/sferradas.
+I am a computer science major at CSUF and I plan on graduating in 2028. 
+My GitHub page is http://github.com/sferradas.
 
 ## Favorite CPSC 120L Labs
 
